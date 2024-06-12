@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de um arquivo `README.md` para o projeto:
-
 ```markdown
 # Projeto Funcionários da Indústria
 
